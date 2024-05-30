@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tim!</h1>
+<h1>Hi, I'm Timothy!</h1>
                            
 <h2>👨‍💻 Software Development Projects:</h2>
 
