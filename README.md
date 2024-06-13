@@ -8,6 +8,7 @@
 <h2>📄 Certifications</h2>
   
   - [CompTIA Security+](https://github.com/user-attachments/files/15506581/CompTIA.Security%2B.ce.certificate.pdf)
+  - [Google AI Essentials](https://github.com/user-attachments/files/15814244/GoogleAIEssentials_Badge20240613-6-cgzkcq.pdf)
   - [KCS v6 Fundamentals](https://github.com/user-attachments/files/15506584/KCS_v6_Fundamentals_Certification.pdf)
 
 <h2> 🤳 Connect with me:</h2>
