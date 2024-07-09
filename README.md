@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Django</b>
-  - [Customer Relationship Management App](https://github.com/timothysimeone/Django-CRM)
+  - [Customer Relationship Management](https://github.com/timothysimeone/Django-CRM)
 
 - <b>C#</b>
   - [Calculator](https://github.com/timothysimeone/calculator)
